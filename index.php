@@ -276,7 +276,7 @@
                     </div>
 
 
-                    <form action="https://mobirise.com/" method="post" data-form-title="CONTACT&amp;nbsp;">
+                    <form  method="post" data-form-title="CONTACT&amp;nbsp;">
 
                         <input type="hidden" value="5iyquIf4ZW++vTG9+y25iHa5WewBzPGEc1OlaKOcmEpjlYwEyHjaNGfmPkwrmSlazz4yFgMkFwkV6E/Y1XJeRzxXDNKZ/JH+a9Q2SJOwD7wgO3UTa0Y7HNepIKOrgTbc" data-form-email="true">
 
