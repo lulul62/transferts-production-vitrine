@@ -35,7 +35,7 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><li class="nav-item"><a class="nav-link link" href="page1.html">PERSONNALISER UN PRODUIT</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-info-outline btn-info" href="#contact">CONTACT</a></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><li class="nav-item"><a class="nav-link link" href="https://imprimshirtcli.herokuapp.com/product">PERSONNALISER UN PRODUIT</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-info-outline btn-info" href="#contact">CONTACT</a></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
